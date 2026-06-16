@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  body {
+    @apply bg-background dark:bg-background-dark text-text-main dark:text-text-mainDark;
+  }
+}
+
+@layer components {
+  /* Custom reusable component classes can be added here if needed, 
+     though utility classes are preferred for most cases. */
+}
