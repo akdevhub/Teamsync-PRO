@@ -190,6 +190,5 @@ This application satisfies all core requirements for the **Cognifyz Technologies
 ---
 
 <div align="center">
-  <p>Developed with ❤️ as part of the Cognifyz Technologies Internship Program.</p>
   <p><i>Educational and evaluation purposes only.</i></p>
 </div>
